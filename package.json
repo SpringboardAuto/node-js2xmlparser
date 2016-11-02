@@ -35,7 +35,7 @@
     "url": "git://github.com/michaelkourlas/node-js2xmlparser.git"
   },
   "dependencies": {
-    "xmlcreate": "^0.1.1"
+    "xmlcreate": "git://github.com/SpringboardAuto/node-xmlcreate.git#master"
   },
   "devDependencies": {
     "@types/chai": "^3.4.34",

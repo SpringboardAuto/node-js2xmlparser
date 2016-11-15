@@ -5,7 +5,7 @@
     "xmlcreate": {
       "version": "0.1.1",
       "from": "xmlcreate@>=0.1.1 <0.2.0",
-      "resolved": "https://registry.npmjs.org/xmlcreate/-/xmlcreate-0.1.1.tgz"
+      "resolved": "https://github.com/SpringboardAuto/node-xmlcreate/archive/master.tar.gz"
     }
   }
 }
